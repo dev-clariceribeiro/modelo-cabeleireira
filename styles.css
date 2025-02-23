@@ -8,7 +8,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f9f9f9;
+    background-color: #eed7d7;
     color: #333;
 }
 
@@ -52,7 +52,7 @@ header nav ul li a {
 /* Seção Hero */
 .hero {
     background: url('https://via.placeholder.com/1200x400') no-repeat center center/cover;
-    color: #fff;
+    color: #be1fa4;
     text-align: center;
     padding: 100px 20px;
 }
